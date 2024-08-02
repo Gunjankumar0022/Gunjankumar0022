@@ -5,9 +5,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
 
-- 🌱 I’m currently learning **
-  > JavaScript, 
-  > React, 
+- 🌱 I’m currently learning **<br>
+  > JavaScript, <br>
+  > React, <br>
   > NodeJs.**
 
 💬 Ask me about **
