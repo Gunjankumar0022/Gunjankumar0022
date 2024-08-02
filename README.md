@@ -10,14 +10,14 @@
   > React <br>
   > NodeJs.**
 
-💬 Ask me about ** <br>
-> Java <br>
->  C <br>
->  Python <br>
-> HTML <br>
-> CSS <br>
-> JavaScript <br>
->  SQL.**
+  💬 Ask me about ** <br>
+  > Java <br>
+  >  C <br>
+  >  Python <br>
+  > HTML <br>
+  > CSS <br>
+  > JavaScript <br>
+  >  SQL.**
 
 - 📫 How to reach me **gunjankumar0022@gmail.com**
   
