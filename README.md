@@ -5,23 +5,25 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
 
-- 🌱 I’m currently learning **<br>
+- 🌱 I’m currently learning <br>
   > JavaScript <br>
   > React <br>
-  > NodeJs.**
+  > NodeJs.
 
-  💬 Ask me about ** <br>
+- 💬 Ask me about  <br>
   > Java <br>
   >  C <br>
   >  Python <br>
   > HTML <br>
   > CSS <br>
   > JavaScript <br>
-  >  SQL.**
+  >  SQL.
 
 - 📫 How to reach me **gunjankumar0022@gmail.com**
   
 - 📫 Linkedln  **https://www.linkedin.com/in/gunjan-kumar-1a8b48179/**
+  <br>
+  <br>
   <br>
   <br>
   
