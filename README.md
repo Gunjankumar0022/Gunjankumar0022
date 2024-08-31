@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <br>
   > React <br>
-  > NodeJs <br>
+  > Angular <br>
   > SpringBoot
 
 - 💬 Ask me about  <br>
