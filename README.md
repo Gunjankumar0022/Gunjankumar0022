@@ -6,18 +6,18 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-aj-champ&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-aj-champ" /> </p>
 
 - 🌱 I’m currently learning <br>
+  > Forge <br>
   > React <br>
-  > Angular <br>
-  > SpringBoot
+  > Python 
 
 - 💬 Ask me about  <br>
-  > Java <br>
-  >  C <br>
-  >  Python <br>
-  > HTML <br>
-  > CSS <br>
-  > JavaScript <br>
-  >  SQL
+  > Jira <br>
+  > JSM <br>
+  > Confluence <br>
+  > Bitbucket <br>
+  > Jira Align <br>
+  > Scripting <br>
+  > Groovy 
 
   
 - 📫 How to reach me **gunjankumar0022@gmail.com**
